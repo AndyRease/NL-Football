@@ -1,4 +1,4 @@
-class Field(object):
+class Field:
     '''
     The field in wich a match is played. The actors (players) will interact with
     other actors and the ball.
